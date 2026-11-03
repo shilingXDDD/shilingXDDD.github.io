@@ -2,7 +2,10 @@
 layout: blog
 title: codex概览
 date: 2026-10-29 10:34:17
+categories:
+   - Agent
 tags:
+   - Agent
 cover: 1.jpg
 ---
 
